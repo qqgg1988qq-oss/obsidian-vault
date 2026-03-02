@@ -1,0 +1,17 @@
+# Obsidian Git - 不需要同步的文件
+
+# Workspace 状态文件（包含窗口布局，会冲突）
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# 缓存和临时文件
+.obsidian/cache
+.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 备份文件
+*.bak
+*~
